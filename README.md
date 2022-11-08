@@ -17,7 +17,7 @@
 
 ### The objectives
 
-- Create a responsive ReactJS web application that consumes an existing API.
+- Descreva o objetivo
 
 ### How to run the project
   After downloading the application to your machine, run it in the terminal:
@@ -34,7 +34,7 @@
     yarn dev
   ```
 
-  **Open [http://localhost:3000](http://localhost:3000) to view it in your browser. Possible errors caused by changes can be seen in the console.**
+  **Open [http://localhost:3000](http://localhost:3000) to view it in your browser. Or if you prefer via the network open http://192.168.15.59:8080/ Possible errors caused by changes can be seen in the console.**
 
 ### Solution link
 
@@ -42,7 +42,7 @@
 
 ### Solution video
 
-[Click here to go to the video](https://youtu.be/lkvEMKLPHUk)
+[Click here to go to the video](https://www.youtube.com/playlist?list=PLBeFAzWm2NoXlG2ENdunhw4Wt-3WI_PlG)
 
 ### Screenshot
 
@@ -57,18 +57,15 @@ Mobile Landscape![](Screenshot/Mobile-landscape-one.PNG) ![](Screenshot/Mobile-l
 
 ### Built with
 
-- Semantic HTML5 markup
-- Tailwindcss
-- ReactJS
-- Axios
-- useState
-- useEffect
-- API consumption
+- Tasks
+- Usadas
+- No
+- Projeto
 
 
 ### What I learned
 
-I learned how to use axios, useEffect and useState inside ReactJS to consume an API and return information from that API in my project.
+O que aprendi
 
 ## Author
 
