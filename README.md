@@ -70,6 +70,5 @@ O que aprendi
 ## Author
 
 - Name - Christian
-- Instagram - [@apredizti](https://www.instagram.com/apredizti/)
 - Linkedin - [@Christian Silva]( https://www.linkedin.com/in/christian-silva-83172621a)
 - GitHub - [@Christian Silva](https://github.com/Christian-M-Silva)
